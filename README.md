@@ -2,9 +2,9 @@
 
 Tracking my journey to become a World-Class Software Engineer at Universidad Internacional de la Rioja, México
 
-- Start Date: October 26,2026
-- Focus: AI, Distibuted Systems and Cloud-Native Architecture
-- Current Status: Prospective university student
+- **Start Date**: October 26,2026
+- **Focus**: AI, Distibuted Systems and Cloud-Native Architecture
+- **Current Status**: Prospective university student
 
 > "I've never been so wide awake. I'm on my way"
 ___
